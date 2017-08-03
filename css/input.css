@@ -1,0 +1,20 @@
+.contentCls{
+    width:200px;
+    color: #888;
+    border-radius: 2px;
+    min-height:30px;
+    max-height:100px;
+    _height:60px;
+    display: inline-block;
+    margin: 0 5px;
+    padding:5px;
+    outline:none;
+    border: 1px solid #ddd;
+    line-height:18px;
+    word-wrap:break-word;
+    overflow-x:hidden;
+    overflow-y:auto;
+    float: left;
+    white-space : pre-wrap;
+    -webkit-user-modify: read-write-plaintext-only;
+}
